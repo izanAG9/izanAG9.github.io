@@ -1,20 +1,20 @@
 # Izan Arnaiz Gallego
-### Cloud & Platform Support Engineer 
-🚀 Eligible for Skilled Worker Visa (New Entrant route) | Open to immediate relocation to the UK
+### Cloud & Platform Support Engineer
+Eligible for Skilled Worker Visa (New Entrant route) | Open to immediate relocation to the UK
 
 ---
 
-## 📌 About Me
-Cloud & Platform Support professional with 2+ years of experience in high-growth environments. Expert in incident management, cloud troubleshooting, and SLA-driven operations. Highly adept at translating technical requirements into seamless user experiences.
+## Professional Summary
+Cloud & Platform Support professional with 2 years of enterprise experience in infrastructure monitoring, incident management, and SLA-driven operations. Focused on maintaining system availability, optimizing CI/CD pipeline workflows, and resolving complex technical incidents in multi-cloud environments.
 
 ---
 
-## 🛠️ My Tech Stack
-- **Cloud Platforms:** AWS, Azure, Watson
-- **Observability & Monitoring:** Grafana, OpenSearch
-- **Systems & Access Management:** Windows, Linux, Crowd, Citrix
+## Technical Skills
+- **Cloud Platforms:** AWS, Azure
+- **Observability & Monitoring:** Grafana, OpenSearch, Prometheus
+- **Systems & Access Management:** Linux, Windows, Crowd, Citrix
 - **CI/CD & Version Control:** Jenkins, GitHub, Bitbucket, Artifactory, Harbor, SonarQube
-- **Ticketing & Collaboration:** Jira, ServiceNow, Confluence, Obsidian, Notion
+- **Ticketing & Collaboration:** Jira, ServiceNow, Confluence
 
 ---
 
@@ -22,35 +22,13 @@ Cloud & Platform Support professional with 2+ years of experience in high-growth
 
 Deployed a local monitoring environment using Docker containers to scrape and visualize system metrics.
 
-*   **The Architecture:** Deployed Prometheus and Grafana as isolated multi-container services using Docker Compose, interconnected via a shared Docker network.
-*   **Metric Aggregation:** Configured Prometheus to scrape local core infrastructure metrics.
-*   **Visualization:** Interconnected Grafana with the Prometheus data source and imported a pre-built community dashboard template to visualize system performance metrics in real time.
+* **The Architecture:** Deployed Prometheus and Grafana as isolated multi-container services using Docker Compose, interconnected via a shared Docker network.
+* **Metric Aggregation:** Configured Prometheus to scrape local core infrastructure metrics.
+* **Visualization:** Interconnected Grafana with the Prometheus data source and imported a pre-built community dashboard template to visualize system performance metrics in real time.
 
+```text
 Repository Structure:
 ├── docker-compose.yml
 ├── prometheus/
 │   └── prometheus.yml
 └── README.md
-
----
-
-## 💼 Professional Experience
-### Platform & Cloud Support Engineer (Consultant) | Devoteam - Adidas Project
-*may 2024 - Present*
-- **Incident Management:** Optimized IT incident resolution workflows via Jira and ServiceNow, consistently maintaining >98% SLA adherence and reducing average resolution time through proactive troubleshooting.
-- **Infrastructure Support:** Diagnosed and resolved complex service outages and access issues across Windows environments, significantly enhancing system reliability and minimizing downtime for internal teams.
-- **CI/CD Operations:** Streamlined CI/CD pipeline efficiency in Jenkins, ensuring seamless deployment cycles and maintaining version control integrity across GitHub, Bitbucket, and Artifactory.
-- **Observability & Monitoring:** Implemented proactive monitoring strategies using Grafana and OpenSearch, reducing Mean Time to Detection (MTTD) by enabling early identification of service disruptions.
-- **Cloud & Cross-functional Support:** Collaborated with engineering teams to provide operational support for services on AWS and Azure, ensuring stable data flows and high-availability architecture.
-
----
-
-## 📜 Certifications
-- **AWS Certified Cloud Practitioner** (Validation: ec8fd1635a054e6380feef03381e3f28)
-- **PTE Academic UKVI (English):** Overall 70 (B2) - Meets UK Visa English requirement.
-
----
-
-## 📞 Contact & Links
-- 💼 **LinkedIn:** [linkedin.com/in/izan-arnaiz-gallego](https://www.linkedin.com/in/izan-arnaiz-gallego/)
-- 📧 **Email:** izan.arnaiz.business@gmail.com
