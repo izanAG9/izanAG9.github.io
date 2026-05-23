@@ -1,38 +1,44 @@
-## Izan Arnaiz Gallego
+# Izan Arnaiz Gallego
 ### Cloud & Platform Support Engineer
-Eligible for Skilled Worker Visa (New Entrant route) | Open to immediate relocation to the UK
+
+**Location:** Barcelona, Spain (Open to immediate relocation to the UK)
+**Visa Status:** Eligible for Skilled Worker Visa (New Entrant route)
 
 ---
 
-### Professional Summary
-Cloud & Platform Support professional with 2 years of enterprise experience in infrastructure monitoring, incident management, and SLA-driven operations. Focused on maintaining system availability, optimizing CI/CD pipeline workflows, and resolving complex technical incidents in multi-cloud environments.
+### 📝 Professional Summary
+Cloud & Platform Support professional with 2 years of enterprise experience in infrastructure monitoring, incident management, and SLA-driven operations. Focused on maintaining system availability, optimizing CI/CD pipeline workflows, and resolving complex technical incidents in multi-cloud environments. Driven by a proactive approach to observability and infrastructure automation.
 
 ---
 
-### Technical Skills
-- **Cloud Platforms:** AWS, Azure
-- **Observability & Monitoring:** Grafana, OpenSearch, Prometheus
-- **Systems & Access Management:** Linux, Windows, Crowd, Citrix
-- **CI/CD & Version Control:** Jenkins, GitHub, Bitbucket, Artifactory, Harbor, SonarQube
-- **Ticketing & Collaboration:** Jira, ServiceNow, Confluence
+### 🛠 Technical Skills
+
+* **Cloud Platforms:** AWS, Azure
+* **Observability & Monitoring:** Grafana, OpenSearch, Prometheus
+* **Systems & Access Management:** Linux, Windows, Crowd, Citrix
+* **CI/CD & Version Control:** Jenkins, GitHub, Bitbucket, Artifactory, Harbor, SonarQube
+* **Ticketing & Collaboration:** Jira, ServiceNow, Confluence
 
 ---
 
-### Featured Project: Local Infrastructure Monitoring Stack
+### 🚀 Featured Projects
 
-Deployed a local monitoring environment using Docker containers to scrape and visualize system metrics.
+Technical projects showcasing infrastructure management and automation skills:
 
-* **The Architecture:** Deployed Prometheus and Grafana as isolated multi-container services using Docker Compose, interconnected via a shared Docker network.
-* **Metric Aggregation:** Configured Prometheus to scrape local core infrastructure metrics.
-* **Visualization:** Interconnected Grafana with the Prometheus data source and imported a pre-built community dashboard template to visualize system performance metrics in real time.
-* **Repository Architecture:** Includes `docker-compose.yml` for multi-container deployment, a dedicated `config/` directory containing the `prometheus.yml` scrape configurations, and a comprehensive `README.md`.
+* **[Observability Stack (Prometheus & Grafana)](./observability-stack-demo)**
+    * **Stack:** Docker, Prometheus, Grafana.
+    * **Description:** Implementation of a containerized local observability stack for real-time monitoring and system metrics visualization using custom dashboards.
 
-📂 enterprise-monitoring-lab
+---
 
-├── 📄 docker-compose.yml
+### 📈 Continuous Learning
+Currently expanding my expertise in:
+* **Kubernetes:** Learning the fundamentals of container orchestration to better support cloud environments.
+* **Infrastructure Monitoring:** Improving my proficiency in dashboarding and alerting strategies within Grafana.
+* **Automation:** Focusing on learning how to use scripts to speed up manual infrastructure tasks.
 
-├── 📂 config/
+---
 
-│   └── 📄 prometheus.yml
-
-└── 📄 README.md
+### 📬 Contact
+* **LinkedIn:** https://www.linkedin.com/in/izan-arnaiz-gallego/
+* **Email:** izan.arnaiz.business@gmail.com
