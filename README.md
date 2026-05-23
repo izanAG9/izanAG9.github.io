@@ -27,8 +27,8 @@ Deployed a local monitoring environment using Docker containers to scrape and vi
 * **Visualization:** Interconnected Grafana with the Prometheus data source and imported a pre-built community dashboard template to visualize system performance metrics in real time.
 * **Repository Architecture:** Includes `docker-compose.yml` for multi-container deployment, a dedicated `prometheus/` directory containing the `prometheus.yml` scrape configurations, and a comprehensive `README.md`.
 
-.
-├── docker-compose.yml
-├── prometheus/
-│   └── prometheus.yml
-└── README.md
+📂 .
+├── 📄 docker-compose.yml
+├── 📂 prometheus/
+│   └── 📄 prometheus.yml
+└── 📄 README.md
