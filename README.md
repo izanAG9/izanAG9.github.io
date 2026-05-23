@@ -25,7 +25,7 @@ Deployed a local monitoring environment using Docker containers to scrape and vi
 * **The Architecture:** Deployed Prometheus and Grafana as isolated multi-container services using Docker Compose, interconnected via a shared Docker network.
 * **Metric Aggregation:** Configured Prometheus to scrape local core infrastructure metrics.
 * **Visualization:** Interconnected Grafana with the Prometheus data source and imported a pre-built community dashboard template to visualize system performance metrics in real time.
-* **Repository Architecture:** Includes `docker-compose.yml` for multi-container deployment, a dedicated `prometheus/` directory containing the `prometheus.yml` scrape configurations, and a comprehensive `README.md`.
+* **Repository Architecture:** Includes `docker-compose.yml` for multi-container deployment, a dedicated `config/` directory containing the `prometheus.yml` scrape configurations, and a comprehensive `README.md`.
 
 📂 enterprise-monitoring-lab
 
