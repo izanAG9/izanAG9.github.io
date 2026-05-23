@@ -18,16 +18,25 @@ Cloud & Platform Support professional with 2+ years of experience in high-growth
 
 ---
 
-## 🎯 Featured Project: Cloud Infrastructure & Monitoring Dashboard
-*(Project showcase and live architecture dashboard coming soon)*
-- **Description:** Designed and deployed a local infrastructure monitoring system using Docker containers to visualize system metrics and log aggregation.
-- **Tech Used:** Docker, Grafana, Prometheus, Linux.
+## Featured Project: Local Infrastructure Monitoring Stack
+
+Deployed a local monitoring environment using Docker containers to scrape and visualize system metrics.
+
+*   **The Architecture:** Deployed Prometheus and Grafana as isolated multi-container services using Docker Compose, interconnected via a shared Docker network.
+*   **Metric Aggregation:** Configured Prometheus to scrape local core infrastructure metrics.
+*   **Visualization:** Interconnected Grafana with the Prometheus data source and imported a pre-built community dashboard template to visualize system performance metrics in real time.
+
+Repository Structure:
+├── docker-compose.yml
+├── prometheus/
+│   └── prometheus.yml
+└── README.md
 
 ---
 
 ## 💼 Professional Experience
 ### Platform & Cloud Support Engineer (Consultant) | Devoteam - Adidas Project
-*Jun 2024 - Present*
+*may 2024 - Present*
 - **Incident Management:** Optimized IT incident resolution workflows via Jira and ServiceNow, consistently maintaining >98% SLA adherence and reducing average resolution time through proactive troubleshooting.
 - **Infrastructure Support:** Diagnosed and resolved complex service outages and access issues across Windows environments, significantly enhancing system reliability and minimizing downtime for internal teams.
 - **CI/CD Operations:** Streamlined CI/CD pipeline efficiency in Jenkins, ensuring seamless deployment cycles and maintaining version control integrity across GitHub, Bitbucket, and Artifactory.
