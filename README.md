@@ -1,4 +1,5 @@
 # Izan Arnaiz Gallego
+
 ### Cloud & Platform Support Engineer
 
 **Location:** Barcelona, Spain (Open to immediate relocation to the UK)
@@ -7,38 +8,30 @@
 ---
 
 ### 📝 Professional Summary
-Cloud & Platform Support professional with 2 years of enterprise experience in infrastructure monitoring, incident management, and SLA-driven operations. Focused on maintaining system availability, optimizing CI/CD pipeline workflows, and resolving complex technical incidents in multi-cloud environments. Driven by a proactive approach to observability and infrastructure automation.
+
+Cloud & Platform Support Engineer with 2 years of enterprise experience in infrastructure monitoring, incident management, and SLA-driven operations. Focused on system stability, incident resolution, and operational support within multi-cloud environments (AWS/Azure). Passionate about maintaining service availability and ensuring excellent support workflows for high-scale clients.
 
 ---
 
 ### 🛠 Technical Skills
 
-* **Cloud Platforms:** AWS, Azure
-* **Observability & Monitoring:** Grafana, OpenSearch, Prometheus
-* **Systems & Access Management:** Linux, Windows, Crowd, Citrix
-* **CI/CD & Version Control:** Jenkins, GitHub, Bitbucket, Artifactory, Harbor, SonarQube
-* **Ticketing & Collaboration:** Jira, ServiceNow, Confluence
-
----
-
-### 🚀 Featured Projects
-
-Technical projects showcasing infrastructure management and automation skills:
-
-* **[Observability Stack (Prometheus & Grafana)](./observability-stack-demo)**
-    * **Stack:** Docker, Prometheus, Grafana.
-    * **Description:** Implementation of a containerized local observability stack for real-time monitoring and system metrics visualization using custom dashboards.
+* **Cloud Platforms:** AWS (Console/Monitoring), Azure.
+* **Observability:** Grafana, OpenSearch.
+* **Systems & Access:** Linux (Terminal/GUI), Windows, Citrix.
+* **Support Workflow:** Jira, ServiceNow, Confluence.
+* **Operational Awareness:** Familiarity with CI/CD environments (Jenkins, Artifactory).
 
 ---
 
 ### 📈 Continuous Learning
-Currently expanding my expertise in:
-* **Kubernetes:** Learning the fundamentals of container orchestration to better support cloud environments.
-* **Infrastructure Monitoring:** Improving my proficiency in dashboarding and alerting strategies within Grafana.
-* **Automation:** Focusing on learning how to use scripts to speed up manual infrastructure tasks.
+
+* **Cloud Monitoring:** Refining alerting strategies and dashboarding best practices within cloud environments.
+* **Incident Management:** Deepening knowledge of ITSM frameworks and SLA-driven operational efficiency.
+* **Technical Communication:** Improving documentation skills for internal knowledge bases and runbooks.
 
 ---
 
 ### 📬 Contact
-* **LinkedIn:** https://www.linkedin.com/in/izan-arnaiz-gallego/
+
+* **LinkedIn:** [https://www.linkedin.com/in/izan-arnaiz-gallego/](https://www.linkedin.com/in/izan-arnaiz-gallego/)
 * **Email:** izan.arnaiz.business@gmail.com
