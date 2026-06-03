@@ -16,7 +16,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo mod get -u
+          hugo mod tidy
+          hugo --minify
       - name: Deploy
         uses: actions/upload-pages-artifact@v3
         with:
