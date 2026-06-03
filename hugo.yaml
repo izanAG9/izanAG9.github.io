@@ -21,17 +21,17 @@ module:
     target: static/fonts
 
 # Manage languages
+locale: en-GB 
+
 languages:
   en:
     label: "English"
     locale: "en-GB"
-    languageName: "English"
     title: "Izan | Cloud & Platform Support Engineer"
     weight: 1
   es:
     label: "Español"
     locale: "es-ES"
-    languageName: "Español"
     title: "Izan | Ingeniero de Soporte Cloud y Plataforma"
     weight: 2
 
