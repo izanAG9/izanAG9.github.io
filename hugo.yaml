@@ -3,7 +3,6 @@ baseURL: https://izanag9.github.io/
 # Actualización forzada para disparar el despliegue
 # El idioma por defecto es Inglés (UK)
 defaultContentLanguage: en
-languageCode: en-GB
 title: "Izan | Cloud & Platform Support Engineer"
 
 # Use Hugo modules to add theme
