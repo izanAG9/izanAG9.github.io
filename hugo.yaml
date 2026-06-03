@@ -1,6 +1,6 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
 baseURL: https://izanag9.github.io/
-
+# Actualización forzada para disparar el despliegue
 # El idioma por defecto es Inglés (UK)
 defaultContentLanguage: en
 languageCode: en-GB
