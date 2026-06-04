@@ -38,16 +38,13 @@ resourceLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-# Show your badges
-# You can show your verifiable certificates from https://www.credly.com.
-# You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
   - type: certification
     name: "AWS Certified Cloud Practitioner (ID: ec8fd1635a054e6380feef03381e3f28)"
     url: "https://cp.certmetrics.com/amazon/en/public/verify/credential/ec8fd1635a054e6380feef03381e3f28"
-    badge: "static/files/aws.png"
+    badge: "/files/aws.png"
 
   - type: certification
     name: "PTE Academic UKVI (B2 - Code: 470651VLNA)"
     url: "https://www.pearsonpte.com/pte-academic-ukvi"
-    badge: "static/files/pearson.png"
+    badge: "/files/pearson.png"
