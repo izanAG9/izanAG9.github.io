@@ -7,58 +7,30 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
-designation: Software Engineer
-# your company information
+# designation
+designation: Cloud & Platform Support Engineer
+# company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Devoteam
+  url: "https://www.devoteam.com/"
 
-# your resume. this file path should be relative to you "static" directory
-# Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
+summary: 'I am a dedicated Cloud & Platform Support Engineer with 2 years of experience managing enterprise production environments and ensuring >98% SLA adherence for global brands. I specialize in incident triage, CI/CD deployment support, and proactive infrastructure monitoring using [Grafana](https://grafana.com/) and [OpenSearch](https://opensearch.org/) across AWS and Azure. Currently, I am fully eligible for the UK Skilled Worker Visa under the **New Entrant route** (PTE Academic UKVI Score: 70) and ready for immediate relocation.'
 
-# a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-
-# your social links
-# give as many as you want. use font-awesome for the icons.
+# social links
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "izan.arnaiz.business@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/izanAG9/izanAG9.github.io"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/izan-arnaiz-gallego/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
-
-# You can put custom buttons to link your relevant resources.
-# For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
   url: "files/resume.pdf"
@@ -67,38 +39,12 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  - type: certification
+    name: "AWS Certified Cloud Practitioner (ID: ec8fd1635a054e6380feef03381e3f28)"
+    url: "https://cp.certmetrics.com/amazon/en/public/verify/credential/ec8fd1635a054e6380feef03381e3f28"
+    badge: "https://images.credly.com/size/680x680/images/00634f14-cee0-4d4b-a114-7c5a898c7ce1/AWS-CloudPractitioner-2020.png"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+  - type: certification
+    name: "PTE Academic UKVI (B2 - Code: 470651VLNA)"
+    url: "https://www.pearsonpte.com/pte-academic-ukvi"
+    badge: "https://images.credly.com/size/680x680/images/3070445d-7521-4fa3-b1d5-bcfae9f5038c/pte-academic-certified-professional.png"

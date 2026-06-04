@@ -10,15 +10,6 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  - title: "3rd Place - CatSkills 2025 (Cloud Computing)"
+    image: /images/sections/achievements/graduation-cap.jpg
+    summary: "Awarded the Bronze Medal in the regional Catalonia Skills competition (CatSkills 2025), competing against top IT talent. Designed, deployed, and automated enterprise cloud infrastructures on AWS under strict time limits, managing virtual machines, load balancers, and fault-tolerant architectures."
