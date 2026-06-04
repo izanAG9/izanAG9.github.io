@@ -28,9 +28,10 @@ projects:
   summary: "Designed and deployed scalable, fault-tolerant cloud infrastructures on AWS under intense time constraints. Engineered architectures utilizing AWS Virtual Machines (EC2), Elastic Load Balancers (ELB), Auto Scaling groups, and secure VPC networking to withstand real-world traffic spikes and failover scenarios."
   tags: ["academic", "cloud", "aws", "infrastructure"]
 
-- name: "Personal Infrastructure & Lab Portfolio"
+- name: "Cloud & Platform Infrastructure Labs"
   role: "Owner"
   timeline: "Ongoing"
-  repo: "https://github.com/izanAG9/izanAG9.github.io"
-  summary: "Continuous development and deployment of cloud architectures, automation scripts, and custom platform environments using Git workflows. Focused on learning advanced containerization, infrastructure-as-code, and mastering Linux administration."
-  tags: ["hobby", "cloud", "linux", "git"]
+  # AQUÍ pones el enlace a tu nuevo repositorio unificado de laboratorios
+  repo: "https://github.com/izanAG9/cloud-platform-labs"
+  summary: "A centralized repository containing multi-cloud architectures, hands-on automation, and infrastructure-as-code deployments. Features production-ready Kubernetes manifests, Linux system administration scripts, and proactive monitoring stacks using Grafana and OpenSearch to solve scalability and reliability challenges."
+  tags: ["hobby", "cloud", "kubernetes", "linux", "observability"]
