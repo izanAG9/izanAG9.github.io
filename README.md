@@ -4,40 +4,48 @@
 
 ---
 
-### 👨🏻‍💻 About Me
-* **Role**: Cloud & Platform Support Engineer with experience in enterprise environments.
-* **Education**: Higher National Diploma (HND) in Computer Network Systems Management (ASIR).
-* **Focus**: Specializing in incident management, high availability (HA) environments, and infrastructure optimization.
-* **Goal**: Currently working towards the CKA (Certified Kubernetes Administrator) certification.
+### 🌐 Contact & Portfolio
+<p align="left">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://izanag9.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-248aaa?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=izanAG9" alt="visitor badge"/>
+</p>
 
 ---
 
 ### 🛠 Tech Stack
-* **Cloud & Infra**: AWS, Azure.
-* **Containers & Orchestration**: Docker, Kubernetes.
-* **Observability**: Grafana, OpenSearch/Elasticsearch.
-* **Automation & CI/CD**: Jenkins, Git/GitHub/Bitbucket.
-* **Languages**: Python, Bash.
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+</p>
+
+---
+
+### 👨🏻‍💻 About Me
+* **Role**: Cloud & Platform Support Engineer.
+* **Focus**: High Availability, Observability, and Cloud Infrastructure.
+* **Goal**: Always learning and improving enterprise-grade systems.
 
 ---
 
 ### ⚡ Core Competencies
-* **Cloud Support**: Managing AWS/Azure environments, ELB configuration, and auto-scaling.
-* **Observability**: Advanced troubleshooting and log analysis using ELK/OpenSearch and Grafana stacks.
-* **Systems Administration**: Linux/Windows Server administration and script automation.
-* **Infrastructure**: Network configuration and deployment via pipelines.
+* **Cloud**: AWS, Azure.
+* **Orchestration**: Kubernetes, Docker.
+* **Monitoring**: OpenSearch, Grafana.
+* **Automation**: CI/CD Pipelines, Bash/Python scripting.
 
 ---
-
-### 🎓 Certifications
-* **AWS Cloud Practitioner**
-* **PTE Academic (UKVI)**
-* **In Progress**: CKA (Certified Kubernetes Administrator)
-
----
-
-### 🌐 Let's Connect
-* **Portfolio**: [izanag9.github.io](https://izanag9.github.io/)
-* **LinkedIn**: [Add your LinkedIn URL here]
-
-*“Passionate about technology, high availability, and cloud scalability.”*
