@@ -1,19 +1,30 @@
-/* Forzar que el título ocupe menos espacio y la letra sea más pequeña */
-.top-navbar .navbar-brand {
-    font-size: 1.1rem !important;        /* Reduce el tamaño del texto */
-    padding-top: 0.15rem !important;     /* Reduce el espacio de arriba */
-    padding-bottom: 0.15rem !important;  /* Reduce el espacio de abajo */
-    margin-right: 0.8rem !important;     /* Lo junta más con el menú de secciones */
+/* Cabecera ultra compacta */
+.top-navbar {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
 }
 
-/* Reducir la altura general del contenedor de la barra superior */
-.navbar {
-    padding-top: 0.2rem !important;
-    padding-bottom: 0.2rem !important;
+/* Título de la marca pegado a la izquierda */
+.navbar-brand {
+    font-size: 1rem !important;
+    padding: 0 !important;
+    margin-right: 0.5rem !important; /* Acorta la distancia con los enlaces */
 }
 
-/* Juntar un poco más los botones del menú (Home, About, Skills...) entre sí */
+/* Juntar muchísimo los ítems del menú */
 .navbar-nav .nav-item {
-    margin-left: 0.4rem !important;
-    margin-right: 0.4rem !important;
+    margin-left: 0.2rem !important;
+    margin-right: 0.2rem !important;
+}
+
+/* Asegurar que los enlaces no tengan aire extra */
+.navbar-nav .nav-link {
+    font-size: 0.9rem !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+/* Si el logo es muy grande, lo limitamos */
+.navbar-brand img {
+    height: 30px !important; 
 }
