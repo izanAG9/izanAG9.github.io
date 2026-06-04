@@ -23,12 +23,12 @@ buttons:
 # Your Skills
 skills:
 - name: Amazon Web Services (AWS)
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/aws.png
   summary: "Experienced in deploying and managing cloud infrastructure, including EC2 instances, Elastic Load Balancers (ELB), and VPC networking. Certified Cloud Practitioner."
   categories: ["cloud"]
 
 - name: Microsoft Azure
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/azure.png
   summary: "Familiar with Azure environments, contributing to cloud administration, resource management, and multi-cloud infrastructure support."
   categories: ["cloud"]
 
@@ -38,27 +38,27 @@ skills:
   categories: ["cloud"]
 
 - name: Grafana
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/grafana.png
   summary: "Used daily for production environment monitoring, dashboard analysis, and proactive anomaly detection for enterprise platform stability."
   categories: ["observability"]
 
 - name: OpenSearch / Elasticsearch
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/opensearch.png
   summary: "Utilized for log analysis, querying system logs, and troubleshooting application-level deployment errors in production."
   categories: ["observability"]
 
 - name: Jenkins
-  logo: /images/sections/skills/docker.svg
+  logo: /images/sections/skills/jenkins.png
   summary: "Monitoring and troubleshooting automated CI/CD pipeline deployment cycles, evaluating execution logs to identify deployment bottlenecks."
   categories: ["automation"]
 
 - name: Python
-  logo: /images/sections/skills/go.png
+  logo: /images/sections/skills/python.png
   summary: "Basic programming foundations applied to automation logic, infrastructure scripts, and understanding core development structures."
   categories: ["automation"]
 
 - name: Jira & ServiceNow
-  logo: /images/sections/skills/git.png
+  logo: /images/sections/skills/jira.png
   summary: "Core platforms for enterprise IT Service Management (ITSM), handling end-to-end incident management workflows under strict SLA constraints."
   categories: ["tools"]
 
