@@ -6,10 +6,10 @@
 
 ### 🌐 Contact & Portfolio
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/izan-arnaiz-gallego" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tuemail@email.com">
+  <a href="mailto:izan.arnaiz.business@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://izanag9.github.io/" target="_blank">
@@ -43,9 +43,12 @@
 ---
 
 ### ⚡ Core Competencies
-* **Cloud**: AWS, Azure.
-* **Orchestration**: Kubernetes, Docker.
-* **Monitoring**: OpenSearch, Grafana.
-* **Automation**: CI/CD Pipelines, Bash/Python scripting.
+* **Cloud Support**: Expertise in AWS enterprise environments (EC2, ELB, VPC); familiarized with Azure cloud concepts and architecture.
+* **Observability & Analytics**: Advanced troubleshooting and log analysis using OpenSearch, Elasticsearch, and Grafana stacks.
+* **Orchestration & Containers**: Managing production Kubernetes clusters, containerization with Docker, and multi-node cluster architecture.
+* **Automation & CI/CD**: Building and maintaining complex CI/CD pipelines with Jenkins and GitLab/Bitbucket.
+* **Systems Administration**: Deep knowledge of Linux (Debian/Ubuntu/RHEL) & Windows Server administration.
+* **Scripting & Infrastructure**: Practical application of Python and Bash for infrastructure automation and log processing.
+* **ITSM & Tools**: Incident management, Jira & ServiceNow workflows, and Git-based version control.
 
 ---
