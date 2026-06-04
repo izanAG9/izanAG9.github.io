@@ -1,0 +1,19 @@
+/* Forzar que el título ocupe menos espacio y la letra sea más pequeña */
+.top-navbar .navbar-brand {
+    font-size: 1.1rem !important;        /* Reduce el tamaño del texto */
+    padding-top: 0.15rem !important;     /* Reduce el espacio de arriba */
+    padding-bottom: 0.15rem !important;  /* Reduce el espacio de abajo */
+    margin-right: 0.8rem !important;     /* Lo junta más con el menú de secciones */
+}
+
+/* Reducir la altura general del contenedor de la barra superior */
+.navbar {
+    padding-top: 0.2rem !important;
+    padding-bottom: 0.2rem !important;
+}
+
+/* Juntar un poco más los botones del menú (Home, About, Skills...) entre sí */
+.navbar-nav .nav-item {
+    margin-left: 0.4rem !important;
+    margin-right: 0.4rem !important;
+}
