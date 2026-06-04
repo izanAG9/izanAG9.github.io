@@ -10,13 +10,12 @@ greeting: "Hi, I am"
 contactInfo:
   email: "izan.arnaiz.business@gmail.com"
   phone: "+34 640 79 63 85"
-  github: https://github.com/izanAG9/izanAG9.github.io
-  linkedin: https://www.linkedin.com/in/izan-arnaiz-gallego/
+  github: "izanAG9"
+  linkedin: "izan-arnaiz-gallego"
 
 # some summary about what you do
 summary:
-  - I am a Cloud Support Engineer
-  - I am a IT Support Engineer
-  - I love cloud
-  - I enjoy to improve my career
-  - I love to work with some fun projects
+  - I am a Cloud & Platform Support Engineer
+  - Specializing in Infrastructure Automation & Linux Systems
+  - Passionate about High Availability & Scalable Cloud Solutions
+  - Focused on Continuous Professional Growth & DevOps Practices
