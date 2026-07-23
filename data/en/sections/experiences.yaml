@@ -18,7 +18,7 @@ experiences:
     overview: Dedicated exclusively to the global Adidas infrastructure project, managing platform operations, monitoring, and stability for their enterprise production environments.
   positions:
   - designation: Platform & Cloud Support Engineer - Adidas Account
-    start: May 2024
+    start: May 2023
     responsibilities:
     - "**Adidas Enterprise Support**: Managed end-to-end incident triage and resolution workflows within Jira and ServiceNow for Adidas production systems, consistently maintaining a >98% SLA compliance rate."
     - "**Infrastructure Monitoring**: Ensured high availability of Adidas AWS and Azure production environments using Grafana and OpenSearch for proactive anomaly and disruption detection."
